@@ -37,6 +37,10 @@ i {
     color: white
 }
 
+i:hover, a:hover {
+    color: rgb(241, 182, 7) !important;
+}
+
 .unite {
     color:rgb(241, 182, 7);
 }
