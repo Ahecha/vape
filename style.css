@@ -29,7 +29,6 @@ article {
 }
 
 section {
-    padding-top: 10%;
     color: white;
 }
 
@@ -55,4 +54,8 @@ i:hover, a:hover {
 
 .text-color {
     background-color: rgb(241, 182, 7);
+}
+
+.about-us-img {
+    height: 75vh;
 }
