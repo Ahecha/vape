@@ -52,3 +52,7 @@ i:hover, a:hover {
     font-size: 3.5rem;
 
 }
+
+.text-color {
+    background-color: rgb(241, 182, 7);
+}
