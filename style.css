@@ -40,7 +40,7 @@ i:hover, a:hover {
     color: rgb(241, 182, 7) !important;
 }
 
-.unite {
+.unite, .driver, .follow {
     color:rgb(241, 182, 7);
 }
 .vape-title {
@@ -56,6 +56,10 @@ i:hover, a:hover {
     background-color: rgb(241, 182, 7);
 }
 
-.about-us-img {
+.about-us-img, .highlights-img {
     height: 75vh;
+}
+
+.ryan-img {
+    max-height: 15vh;
 }
